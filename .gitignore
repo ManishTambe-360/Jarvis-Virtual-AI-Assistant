@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+.vscode
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python build/distribution/logs
+*.log
+build/
+dist/
+*.egg-info/

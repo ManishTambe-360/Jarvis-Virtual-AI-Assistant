@@ -33,9 +33,12 @@ pip install -r requirements.txt
 Create a `.env` file in the root directory by copying the example template:
 ```bash
 cp .env.example .env
+```
+Open the newly created `.env` file and add your custom API keys and secret tokens.
 
 ## 💻 Usage
 
 To launch the assistant, run:
 ```bash
-pyth
+python main.py
+```
